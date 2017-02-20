@@ -1,0 +1,7 @@
+iterm2
+sublime-text
+slack
+google-chrome
+google-drive
+microsoft-office
+valentina-studio
