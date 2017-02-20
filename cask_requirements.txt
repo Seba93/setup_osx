@@ -6,3 +6,6 @@ slack
 google-chrome
 google-drive
 microsoft-office
+tunnelblick
+balsamiq-mockups 
+valentina-studio

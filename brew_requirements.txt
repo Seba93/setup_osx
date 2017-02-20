@@ -1,3 +1,5 @@
 git
 python3
 node
+redis   
+postgresql95
