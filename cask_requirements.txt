@@ -1,7 +1,8 @@
 iterm2
+sourcetree
+docker
 sublime-text
 slack
 google-chrome
 google-drive
 microsoft-office
-valentina-studio

@@ -1,5 +1,3 @@
 git
-node
-ruby
 python3
-docker
+node
