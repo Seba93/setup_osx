@@ -23,6 +23,15 @@ List of all tools installed are in files:
 
 * brew_requirements.txt 
 * cask_requirements.txt
-* pip3_requirements.txt (need sudo permissions)
+* pip3_requirements.txt
 
-## 3. Done!
+## 3. Tips
+
+* Python3 will be installed in path: _/usr/local/bin/python3_
+* For create virtualenvs use python3
+	
+		virtualenv -p python3 envname
+	
+* For install python packages use _pip3_
+
+## 4. Done!

@@ -35,5 +35,5 @@ while read cask_pkg; do
     fi
 done < $cask_requirements
 
-printf "\nCheck pip requirements(password may be required):\n"
-sudo pip3 install -r pip_requirements.txt
+printf "\nCheck pip3 requirements:\n"
+pip3 install -r pip_requirements.txt
