@@ -37,3 +37,6 @@ done < $cask_requirements
 
 printf "\nCheck pip3 requirements:\n"
 pip3 install -r pip_requirements.txt
+
+printf "\nCheck npm requirements:\n"
+cat npm_requirements.txt | xargs npm install -g

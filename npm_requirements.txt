@@ -1,0 +1,6 @@
+gulp
+bower
+webpack
+jslinter
+eslinter
+babel
