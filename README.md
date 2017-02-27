@@ -17,7 +17,7 @@ This script will launch a alert box for install the package.
 
 For install homebrew, cask and all tools you need to execute the script:
 
-	$source check_requirements.sh
+	$source install_requirements.sh
 	
 List of all tools installed are in files:
 
