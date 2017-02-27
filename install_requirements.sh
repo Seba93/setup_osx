@@ -36,7 +36,7 @@ while read cask_pkg; do
 done < $cask_requirements
 
 printf "\nCheck pip3 requirements:\n"
-pip3 install -r pip_requirements.txt
+pip3 install -r pip3_requirements.txt
 
 printf "\nCheck npm requirements:\n"
 cat npm_requirements.txt | xargs npm install -g
