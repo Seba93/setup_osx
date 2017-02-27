@@ -1,2 +1,2 @@
 virtualenvwrapper
-ipyhton
+ipython
